@@ -18,10 +18,11 @@ support MacOS 10.15.5 and 10.15.6 and 11 (big sur)
 + bcm943602cdp wifi & bt
 
 ----
-+ Everything working except sleep. # PLEASE READ OPENCORE DESKTOP GUIDE CAREFULLY IF SOMETHING ELSE IS NOT WORKING!
++ Everything working except sleep. 
+##PLEASE READ OPENCORE DESKTOP GUIDE CAREFULLY IF SOMETHING ELSE IS NOT WORKING!
 
 ----
-bios
+Bios
 ----
 + disable csm
 + do not enable above 4g decoding
