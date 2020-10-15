@@ -19,7 +19,6 @@ support MacOS 10.15.5 and 10.15.6 and 11 (big sur)
 
 ----
 + Everything working except sleep. 
-##PLEASE READ OPENCORE DESKTOP GUIDE CAREFULLY IF SOMETHING ELSE IS NOT WORKING!
 
 ----
 Bios
@@ -29,3 +28,4 @@ Bios
 + bios version <= 3.0
 
 ----
+# PLEASE READ OPENCORE DESKTOP GUIDE CAREFULLY IF SOMETHING ELSE IS NOT WORKING!
